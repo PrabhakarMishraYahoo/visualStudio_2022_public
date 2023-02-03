@@ -1,0 +1,5 @@
+IpAddress|Ping Latency|SSH|TelNet|SNMP
+www.google.com|67|-1
+www.yahoo.com|21|-1
+www.youtube.com|98|-1
+www.altavista.com|29|-1
